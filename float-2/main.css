@@ -1,0 +1,23 @@
+
+.caja{
+	width: 180px;
+	height: 150px;
+	float: left;
+}
+.contenedor{
+	border: 2px solid #D3D3D3;
+}
+.amarillo{
+	background: #FFD700;
+}
+.azul{
+	background: #6495ED;
+}
+.rojo{
+	background: #E40D31;
+}
+.clearfix:after, .clearfix:before{
+	content: "";
+	display: table;
+	clear: both;
+}
