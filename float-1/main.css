@@ -1,0 +1,19 @@
+
+.caja{
+	width: 25%;
+	height: 100px;
+	float: bottom;
+}
+.contenedor{
+	border: 1px solid #D3D3D3;
+
+}
+.amarillo{
+	background: #FFD700;
+}
+.azul{
+	background: #6495ED;
+}
+.rojo{
+	background: #E40D31;
+}
